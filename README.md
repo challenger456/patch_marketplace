@@ -17,7 +17,7 @@ A simple Flutter-based mobile app for browsing products, filtering them by categ
 
 ## Screenshots
 
-![Home Screen](assets/images/home_screen.png)
+![Home Screen](assets/Screenshot_20241216_202714.jpg)
 
 ---
 
